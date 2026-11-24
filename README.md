@@ -79,9 +79,7 @@ Through this assignment, I gained practical experience in using NumPy and Pandas
 
 This project strengthened my understanding of Python fundamentals and provided a foundation for further learning in Data Analytics.
 
-## 👩‍💻 Author
 
-**Adhra H**
 
 Aspiring Data Analyst | Python | NumPy | Pandas | Excel | Power BI
 
